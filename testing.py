@@ -1,3 +1,1 @@
-name = "Megan"
-
-print(name)
+print("Hellow World!")
